@@ -1,2 +1,2 @@
 # bolog-picture
-博客图传
+博客图床
